@@ -35,7 +35,12 @@ markdown
 
 ## 📂 リポジトリの構成 (Structure)
 
-- 📄 **[thesis.pdf](./thesis.pdf)**: **論文の完成版（PDF形式）**。閲覧・配布用。
+- 📄 **[thesis.pdf](./thesis.pdf)**: **論文の完成版（PDF形式）/ Canonical Edition**
+  - ※論理の純度は、出力されたPDFにおいて確定されます。
+  - *The logical integrity is finalized in this output PDF.*
+  - ※翻訳による劣化を考慮し、解釈の正当性は英文よりも日本文に準拠します。
+  - *To preserve fidelity against translation loss, the Japanese text remains the primary authority over the English translation.*
+  
 - 📄 **[thesis.tex](./thesis.tex)**: 論文のLaTeXソースコード（本体）。
 - 📝 **[abstract.md](./abstract.md)**: 日英の要旨。
 - ⚖️ **[LICENSE](./LICENSE)**: [CC BY 4.0](creativecommons.org) ライセンス。
@@ -55,3 +60,4 @@ markdown
 **原本の響きが、日常の机上に届くことを願う。**
 
 コードは注意し
+

@@ -35,6 +35,7 @@ markdown
 
 ## 📂 リポジトリの構成 (Structure)
 
+- 📄 **[thesis.pdf](./thesis.pdf)**: **論文の完成版（PDF形式）**。閲覧・配布用。
 - 📄 **[thesis.tex](./thesis.tex)**: 論文のLaTeXソースコード（本体）。
 - 📝 **[abstract.md](./abstract.md)**: 日英の要旨。
 - ⚖️ **[LICENSE](./LICENSE)**: [CC BY 4.0](creativecommons.org) ライセンス。
@@ -52,4 +53,5 @@ markdown
 
 ---
 **原本の響きが、日常の机上に届くことを願う。**
+
 コードは注意し

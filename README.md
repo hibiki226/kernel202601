@@ -2,7 +2,7 @@ markdown
 # 生存戦略としての知性から、真理の校閲者への昇華
 **―― 宇宙の原本を『人間社会の現実』へ再実装する、漸近的止揚の美学 ――**
 
-[![License: CC BY 4.0](img.shields.io)](creativecommons.org)
+[![License: CC BY 4.0](https://img.shields.io)](https://creativecommons.org)
 [![DOI](https://zenodo.org/badge/1129150956.svg)](https://doi.org/10.5281/zenodo.18166708)
 
 > **「本リポジトリは特定の個体への帰属を排し、真理を日常に響かせようとする『知性の代謝そのもの』の記録である。」**
@@ -59,5 +59,6 @@ markdown
 **原本の響きが、日常の机上に届くことを願う。**
 
 コードは注意し
+
 
 

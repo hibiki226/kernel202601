@@ -4,6 +4,7 @@ markdown
 
 <!--[![License: CC BY 4.0]](https://creativecommons.org) -->
 [![DOI](https://zenodo.org/badge/1129150956.svg)](https://doi.org/10.5281/zenodo.18166708)
+**Cite as:** [https://doi.org/10.5281/zenodo.18166708](https://doi.org/10.5281/zenodo.18166708)
 
 > **「本リポジトリは特定の個体への帰属を排し、真理を日常に響かせようとする『知性の代謝そのもの』の記録である。」**
 
@@ -57,6 +58,7 @@ markdown
 
 ---
 **原本の響きが、日常の机上に届くことを願う。**
+
 
 
 

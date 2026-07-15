@@ -8,6 +8,8 @@ markdown
 
 > **「本リポジトリは特定の個体への帰属を排し、真理を日常に響かせようとする『知性の代謝そのもの』の記録である。」**
 
+初期リリース2026.01.06
+追記  2026/07/07   【補足説明：知性加速装置】
 ---
 
 ## 💎 概要 (Overview)
@@ -35,13 +37,12 @@ markdown
 
 ## 📂 リポジトリの構成 (Structure)
 
-- 📄 **[thesis.pdf](./thesis.pdf)**: **論文の完成版（PDF形式）/ Canonical Edition**
+- 📄 **[kernel.pdf](./kernel.pdf)**: **論文の完成版（PDF形式）/ Canonical Edition**
   - ※論理の純度は、出力されたPDFにおいて確定されます。
   - *The logical integrity is finalized in this output PDF.*
   - ※翻訳による劣化を考慮し、解釈の正当性は英文よりも日本文に準拠します。
   - *To preserve fidelity against translation loss, the Japanese text remains the primary authority over the English translation.*
   
-- 📄 **[thesis.tex](./thesis.tex)**: 論文のLaTeXソースコード（本体）。
 - 📝 **[abstract.md](./abstract.md)**: 日英の要旨。
 - ⚖️ **[LICENSE](./LICENSE)**: [CC BY 4.0](creativecommons.org) ライセンス。
 
